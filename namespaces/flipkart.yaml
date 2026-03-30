@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: flipkart
+  labels:
+    project: flipkart
+    environment: dev
+    purpose: namespace
